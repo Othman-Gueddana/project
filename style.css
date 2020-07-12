@@ -1,0 +1,35 @@
+.text {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	text-shadow: 3px 3px 6px white;
+}
+.mainImg{
+	width: 1000px
+	padding-left:180px;
+	float: left;
+
+}
+
+.marketing {
+	color: white;
+	font-family: monospace;
+	text-align: center;
+	font-size: 50px
+
+}
+.button{
+	width: 200px
+}
+
+
+.text2{
+	color: white;
+}
+
+body{
+	background: black;
+}
+.imgStyle{
+	width: 150px 
+}
