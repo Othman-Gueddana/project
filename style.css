@@ -10,26 +10,26 @@
 	float: left;
 
 }
-
 .marketing {
 	color: white;
 	font-family: monospace;
 	text-align: center;
 	font-size: 50px
-
 }
-.button{
-	width: 200px
-}
-
 
 .text2{
 	color: white;
+	text-align: center;
 }
 
 body{
 	background: black;
 }
 .imgStyle{
-	width: 150px 
+	width: 250px
+
+}
+.btn{
+  text-align: center;
+
 }
